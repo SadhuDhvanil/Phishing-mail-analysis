@@ -1,6 +1,6 @@
-# Phishing Email Analysis - Task 2
+# Phishing Email Analysis 
 
-This repository contains a phishing email analysis task for cybersecurity awareness training.
+This repository contains a phishing email analysis which i have done for learning purpose.
 
 ## 📋 Objective
 
