@@ -1,6 +1,7 @@
-
 Task: Analyze suspicious email samples for phishing characteristics
+
 Tools Used: Manual visual inspection, header analysis (simulated), link inspection (based on screenshots)
+
 
 
 📨 Email Sample 1: GitHub Verification (Suspicious)
@@ -40,16 +41,16 @@ Observations:
 7. Feels rushed and generic, likely meant to trick people into clicking without thinking.
 
 
-✅ Summary / Conclusion
-Both of these emails raise multiple red flags:
+✅ Summary / Comparison Table
 
-Indicator	                          GitHub Email	 Google Email
-Spoofed sender domain	                   ✅	          ✅
-Urgent call to action	                   ✅	          ✅
-Suspicious/masked links	Possibly       	   ✅
-Branding misuse                    	       ✅ (GitHub)    ✅ (Google)
-Context missing	                           ❌	          ✅
-Clear phishing signs	                   ✅	        ✅✅✅
+| Indicator              | GitHub Email | Google Email |
+|------------------------|--------------|---------------|
+| Spoofed sender domain  | ✅✅          | ✅✅           |
+| Urgent call to action  | ✅✅          | ✅✅           |
+| Suspicious/masked link | Possibly ✅   | ✅✅           |
+| Branding misuse        | ✅ (GitHub)   | ✅ (Google)    |
+| Context missing        | ❌            | ✅✅           |
+| Clear phishing signs   | ✅✅✅         | ✅✅✅          |
 
 
 If I got these in my inbox, I would definitely report them as phishing and not click on anything. Always check sender domains and hover over links before clicking.
